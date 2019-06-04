@@ -38,7 +38,9 @@ function findTheCheese (foods) {
 
 function wordswithb(strings){
   for (var i = 0, i < strings.length, i++ ){
-    if (strings.chartAt(i) === )
+    if (strings.chartAt(i) === ){
+      str
+    }
   }
   
 }
